@@ -3,8 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsc-23&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsc-23" /> </p>
-
 - 🔭 I’m a **Full-Stack Web-Developer.**
 
 - 👯 I’m looking to collaborate on **Web and Mobile Technologies.**
