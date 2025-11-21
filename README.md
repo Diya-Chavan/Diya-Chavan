@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Namaste 🙏, I'm Diya Chavan.</h1>
+<h3 align="center">A passionate Web and Mobile application Developer from India 🧡🤍💚.</h3>
 
-<!--
-**Diya-Chavan/Diya-Chavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="400" src="https://rajacepat.com/assets/frontend/img/webdev.gif">
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsc-23&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsc-23" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m a **Full-Stack Web-Developer.**
+
+- 👯 I’m looking to collaborate on **Web and Mobile Technologies.**
+
+- 🤝 I’ve very good knowledge of **React.js Node.js and Express.js.**
+
+- 💬 Ask me about **Databases and UI/UX.**
+
+- 📫 How to reach me **diyas25092000@gmail.com**
+
+- ⚡ Developer's Tip - **"Simplicity is best path to the true beauty."**
